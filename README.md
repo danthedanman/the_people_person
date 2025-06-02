@@ -30,8 +30,8 @@ From the project root directory, run:
 python src/main.py
 ```
 This will open a Pygame window and prompt you to:
-1. Enter your OpenAI API key (paste with **Ctrl+V**).
-2. Enter your gameplay name.
+1. Enter your OpenAI API key (paste with **Ctrl+V** and then hit enter).
+2. Enter your gameplay name and hit enter.
 
 ## How to Play
 You act as a counselor on a suicide prevention hotline. Your goal is to listen, empathize, and help callers improve their mental health.
