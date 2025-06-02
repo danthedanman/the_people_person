@@ -34,7 +34,7 @@ This will open a Pygame window and prompt you to:
 2. Enter your gameplay name and hit enter.
 
 ## How to Play
-You act as a counselor on a suicide prevention hotline. Your goal is to listen, empathize, and help callers improve their mental health.
+You act as a counselor on a suicide prevention hotline. Your goal is to listen, empathize, and help callers improve their mental health.  If a caller's health drops to 2 or below, you lose the caller and get -1 point.  If you can get your caller to 8 or above, you have saved your caller and get +1 point.  (The game won't tell you which one, it will just say "Generating new caller" and give you the next caller, but you'll see your score updated and get the idea.)
 
 ### User Interface
 - **Score:** Tracks your performance across calls.
